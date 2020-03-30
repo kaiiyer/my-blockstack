@@ -1,8 +1,9 @@
-#my-blockstack
-k
-A shitty intro to blockstack
+# my-blockstack
+> A shitty intro to blockstack
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+![Homepage](https://user-images.githubusercontent.com/24914913/77887269-eec10500-7287-11ea-94f3-5190d5b10c2d.png)
 
 ## Available Scripts
 
